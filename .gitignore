@@ -1,0 +1,24 @@
+# --- DO NOT COMMIT encrypted seed ---
+encrypted_seed.txt
+
+# Python cache
+_pycache_/
+*.pyc
+*.pyo
+
+# virtual environments
+venv/
+env/
+
+# Environment files
+.env
+
+# IDE / Editor files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+
+# Logs
+*.log
